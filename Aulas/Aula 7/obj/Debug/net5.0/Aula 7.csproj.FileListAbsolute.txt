@@ -1,0 +1,15 @@
+D:\Temp\POO\ConsoleApp1\bin\Debug\net5.0\Aula 7.exe
+D:\Temp\POO\ConsoleApp1\bin\Debug\net5.0\Aula 7.deps.json
+D:\Temp\POO\ConsoleApp1\bin\Debug\net5.0\Aula 7.runtimeconfig.json
+D:\Temp\POO\ConsoleApp1\bin\Debug\net5.0\Aula 7.runtimeconfig.dev.json
+D:\Temp\POO\ConsoleApp1\bin\Debug\net5.0\Aula 7.dll
+D:\Temp\POO\ConsoleApp1\bin\Debug\net5.0\ref\Aula 7.dll
+D:\Temp\POO\ConsoleApp1\bin\Debug\net5.0\Aula 7.pdb
+D:\Temp\POO\ConsoleApp1\obj\Debug\net5.0\Aula 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO\ConsoleApp1\obj\Debug\net5.0\Aula 7.AssemblyInfoInputs.cache
+D:\Temp\POO\ConsoleApp1\obj\Debug\net5.0\Aula 7.AssemblyInfo.cs
+D:\Temp\POO\ConsoleApp1\obj\Debug\net5.0\Aula 7.csproj.CoreCompileInputs.cache
+D:\Temp\POO\ConsoleApp1\obj\Debug\net5.0\Aula 7.dll
+D:\Temp\POO\ConsoleApp1\obj\Debug\net5.0\ref\Aula 7.dll
+D:\Temp\POO\ConsoleApp1\obj\Debug\net5.0\Aula 7.pdb
+D:\Temp\POO\ConsoleApp1\obj\Debug\net5.0\Aula 7.genruntimeconfig.cache
