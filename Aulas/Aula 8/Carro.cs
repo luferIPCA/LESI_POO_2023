@@ -4,9 +4,19 @@
 *	</copyright>
 * 	<author>lufer</author>
 *   <date>10/26/2022 9:52:32 PM</date>
-*	<description></description>
+*	<description>
+*	https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types?f1url=%3FappId%3DDev16IDEF1%26l%3DEN-US%26k%3Dk(byte_CSharpKeyword)%3Bk(DevLang-csharp)%26rd%3Dtrue
+*	</description>
 **/
 using System;
+
+enum COMB
+{
+    Gasolina=1,
+    GAZO=2,
+    GAS=3,
+    ELE=4
+}
 
 namespace Aula_8
 {
@@ -22,6 +32,7 @@ namespace Aula_8
         #region Attributes
 
         string marca;
+        COMB combustivel;
 
         #endregion
 
@@ -35,11 +46,17 @@ namespace Aula_8
         public Carro()
         {
             marca = "";
+            combustivel = COMB.ELE;
         }
 
         public Carro(string s)
         {
             marca = s;
+        }
+
+        public Carro (string marca, int a) : base(a)
+        {
+            this.marca = marca;
         }
         #endregion
 

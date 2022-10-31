@@ -1,0 +1,16 @@
+D:\Temp\POO\Aulas\Aula 8\bin\Debug\net5.0\Aula 8 - Pilares POO.exe
+D:\Temp\POO\Aulas\Aula 8\bin\Debug\net5.0\Aula 8 - Pilares POO.deps.json
+D:\Temp\POO\Aulas\Aula 8\bin\Debug\net5.0\Aula 8 - Pilares POO.runtimeconfig.json
+D:\Temp\POO\Aulas\Aula 8\bin\Debug\net5.0\Aula 8 - Pilares POO.runtimeconfig.dev.json
+D:\Temp\POO\Aulas\Aula 8\bin\Debug\net5.0\Aula 8 - Pilares POO.dll
+D:\Temp\POO\Aulas\Aula 8\bin\Debug\net5.0\ref\Aula 8 - Pilares POO.dll
+D:\Temp\POO\Aulas\Aula 8\bin\Debug\net5.0\Aula 8 - Pilares POO.pdb
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.csprojAssemblyReference.cache
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.AssemblyInfoInputs.cache
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.AssemblyInfo.cs
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.dll
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\ref\Aula 8 - Pilares POO.dll
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.pdb
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.genruntimeconfig.cache

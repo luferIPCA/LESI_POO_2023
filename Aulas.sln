@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaExtra", "Aulas\AulaExtr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 8 - Pilares POO", "Aulas\Aula 8\Aula 8 - Pilares POO.csproj", "{B590BE29-E76B-4D74-A03A-0330DF5BB1D5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercSlides", "Aulas\ExercSlides\ExercSlides.csproj", "{13E2947A-4138-49B6-A843-5D72DF572EA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B590BE29-E76B-4D74-A03A-0330DF5BB1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B590BE29-E76B-4D74-A03A-0330DF5BB1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B590BE29-E76B-4D74-A03A-0330DF5BB1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E2947A-4138-49B6-A843-5D72DF572EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E2947A-4138-49B6-A843-5D72DF572EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E2947A-4138-49B6-A843-5D72DF572EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E2947A-4138-49B6-A843-5D72DF572EA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

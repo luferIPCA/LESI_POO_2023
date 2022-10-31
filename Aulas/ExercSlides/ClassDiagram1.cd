@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExercSlides.Utilizador1">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercSlides.Aluno">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Utilizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercSlides.Professor">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Utilizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercSlides.Funcionario">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercSlides.Autor">
+    <Position X="10.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercSlides.Autores">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Obra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercSlides.Obra">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAKAAAEAAAAAAAAgAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Obra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercSlides.Biblioteca">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAAAAAAAAAAAAAAAAAAAAAAgIAAAACAAAAAgA=</HashCode>
+      <FileName>Biblioteca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TIPOUTILIZADOR" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAA=</HashCode>
+      <FileName>Utilizador.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TIPOOBRA" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAAAAABgAAIAAA=</HashCode>
+      <FileName>Obra.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

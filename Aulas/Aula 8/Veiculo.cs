@@ -37,9 +37,9 @@ namespace Aula_8
             ano = 2022;
         }
 
-        public Veiculo(int a)
+        public Veiculo(int x)
         {
-            ano = a;
+            ano = x;
         }
 
         #endregion
@@ -66,6 +66,13 @@ namespace Aula_8
         {
             return "Ano: " + ano.ToString();
         }
+
+
+        public static void FazCoisas(IVeiculo x)
+        {
+            int a = x.Ano();
+            string s = x.MostraDetalhes();
+        }
         #endregion
 
         #region Destructor
@@ -79,6 +86,7 @@ namespace Aula_8
 
         #endregion
     }
+
 
 
 }
