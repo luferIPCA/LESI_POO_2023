@@ -14,6 +14,9 @@ using System;
 
 namespace ExercSlides
 {
+    /// <summary>
+    /// Classse que descreve uma Biblioteca
+    /// </summary>
     class Biblioteca
     {
 
@@ -22,6 +25,9 @@ namespace ExercSlides
         string inst;
         Utilizador[] users;
         Obra[] obras;
+        
+        Obras variasObras;
+
         public static int totUtilizadores=0;
         public static int totObras = 0;
 
@@ -73,6 +79,31 @@ namespace ExercSlides
             {
                 Console.WriteLine("Obra: {0} - Autor: {1}", obras[i].Titulo, obras[i].GetFirstAutor());
             }
+        }
+
+
+        #region GERE_OBRAS
+        public bool InsereObra(Obra o)
+        {
+            //testar se já existe
+            obras[totObras++] = o;
+            return true;
+        }
+        #endregion
+    }
+
+
+    class Obras
+    {
+        Obra[] obras;
+        int totObras = 0;
+
+
+        public bool InsereObra(Obra o)
+        {
+            //testar se já existe
+            obras[totObras++] = o;
+            return true;
         }
     }
 }

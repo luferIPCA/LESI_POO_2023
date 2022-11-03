@@ -65,6 +65,7 @@ namespace Aula_3
             //Inteiros
             //C: int valores[10];
             int[] valores= { 1, 2, 3, 4, 5 };
+           
 
             //Percorre todas as posições
             for(int i=0; i < valores.Length; i++)
@@ -89,9 +90,14 @@ namespace Aula_3
             //Ordenar
             //Procurar
             //Existe valor a no array?
+
+            //int[][] x;
+            //int[,] y;
+
             bool existe = false;
             for(int i=0; i<valores.Length; i++)
             {
+                //if (valores[i]%2==0) cont++;
                 if(valores[i]==a)
                 {
                     existe = true;

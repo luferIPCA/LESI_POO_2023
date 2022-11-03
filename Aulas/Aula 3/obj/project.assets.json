@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\POO\\Aulas\\Aula 3\\Aula 3.csproj",
-      "projectName": "Aula 3",
-      "projectPath": "D:\\Temp\\POO\\Aulas\\Aula 3\\Aula 3.csproj",
+      "projectUniqueName": "D:\\Temp\\POO\\Aulas\\Aula 3\\Aula 3 - Arrays.csproj",
+      "projectName": "Aula 3 - Arrays",
+      "projectPath": "D:\\Temp\\POO\\Aulas\\Aula 3\\Aula 3 - Arrays.csproj",
       "packagesPath": "C:\\Users\\lufer\\.nuget\\packages\\",
       "outputPath": "D:\\Temp\\POO\\Aulas\\Aula 3\\obj\\",
       "projectStyle": "PackageReference",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
