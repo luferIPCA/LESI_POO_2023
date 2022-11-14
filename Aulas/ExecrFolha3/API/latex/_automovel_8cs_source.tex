@@ -1,0 +1,118 @@
+\hypertarget{_automovel_8cs_source}{}\doxysection{Automovel.\+cs}
+\label{_automovel_8cs_source}\index{D:/Temp/POO/Aulas/ExecrFolha3/Automovel.cs@{D:/Temp/POO/Aulas/ExecrFolha3/Automovel.cs}}
+\mbox{\hyperlink{_automovel_8cs}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00001}00001 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00002}00002 \textcolor{comment}{//by lufer}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00003}00003 \textcolor{keyword}{using} System;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00004}00004 \textcolor{keyword}{using} System.Collections.Generic;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00005}00005 \textcolor{keyword}{using} System.Linq;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00006}00006 \textcolor{keyword}{using} System.Text;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00007}00007 \textcolor{keyword}{using} System.Threading.Tasks;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00008}00008 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00009}\mbox{\hyperlink{namespace_exerc_folha3}{00009}} \textcolor{keyword}{namespace }\mbox{\hyperlink{namespace_exerc_folha3}{ExercFolha3}}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00010}00010 \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00011}00011 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00012}\mbox{\hyperlink{namespace_exerc_folha3_ac7e4dbd2d3def580c7211a8ace966a15}{00012}}     \textcolor{keyword}{public} \textcolor{keyword}{enum} \mbox{\hyperlink{namespace_exerc_folha3_ac7e4dbd2d3def580c7211a8ace966a15}{COMB}}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00013}00013     \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00014}00014         \mbox{\hyperlink{namespace_exerc_folha3_ac7e4dbd2d3def580c7211a8ace966a15abae467f317cc86a86ab4a11f913741f4}{GAZ}},}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00015}00015         \mbox{\hyperlink{namespace_exerc_folha3_ac7e4dbd2d3def580c7211a8ace966a15a505273a0a2bba0111a40f6cccbc55d69}{GAS}},}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00016}00016         \mbox{\hyperlink{namespace_exerc_folha3_ac7e4dbd2d3def580c7211a8ace966a15ad364eba7609ec116a906ae4caa7dc739}{ELE}}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00017}00017     \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00018}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel}{00018}}     \textcolor{keyword}{public} \textcolor{keyword}{class }\mbox{\hyperlink{class_exerc_folha3_1_1_automovel}{Automovel}}  : IComparable}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00019}00019     \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00020}00020 \textcolor{preprocessor}{        \#region ESTADO}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00021}00021 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00022}00022         \textcolor{keywordtype}{string} matricula;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00023}00023         \textcolor{comment}{//string modelo;}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00024}00024         \textcolor{keywordtype}{byte} combustivel;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00025}00025         \mbox{\hyperlink{namespace_exerc_folha3_ac7e4dbd2d3def580c7211a8ace966a15}{COMB}} c;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00026}00026         \textcolor{comment}{//string cor;}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00027}00027         \textcolor{keywordtype}{short} ano;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00028}00028 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00029}00029 \textcolor{preprocessor}{        \#endregion}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00030}00030 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00031}00031 \textcolor{preprocessor}{        \#region METODOS}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00032}00032 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00033}00033 \textcolor{preprocessor}{        \#region CONST}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00034}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a744f55685a68e8d3c52a180acbdb4b68}{00034}}         \textcolor{keyword}{public} \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a744f55685a68e8d3c52a180acbdb4b68}{Automovel}}()}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00035}00035         \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00036}00036             ano = 2022;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00037}00037             combustivel = 1;    \textcolor{comment}{//Gasolina}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00038}00038             \textcolor{comment}{//Veiculos.InsVeiculo(this);}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00039}00039         \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00040}00040 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00041}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a0c69c4578d51ba650d8fe190a5ed5484}{00041}}         \textcolor{keyword}{public} \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a0c69c4578d51ba650d8fe190a5ed5484}{Automovel}}(\textcolor{keywordtype}{string} mat, \textcolor{keywordtype}{byte} comb, \textcolor{keywordtype}{short} a, \mbox{\hyperlink{namespace_exerc_folha3_ac7e4dbd2d3def580c7211a8ace966a15}{COMB}} c)}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00042}00042         \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00043}00043             \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a0a51d4f23d233046e049bfa781caa58b}{Matricula}} = mat;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00044}00044             combustivel = comb;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00045}00045             \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a597daa2f651e811798bb441cc8d8432d}{Ano}} = a;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00046}00046             this.c = c;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00047}00047             \textcolor{comment}{//Veiculos.InsVeiculo(this);}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00048}00048         \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00049}00049 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00050}00050 \textcolor{preprocessor}{        \#endregion}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00051}00051 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00052}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a597daa2f651e811798bb441cc8d8432d}{00052}}         \textcolor{keyword}{public} \textcolor{keywordtype}{short} \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a597daa2f651e811798bb441cc8d8432d}{Ano}}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00053}00053         \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00054}00054             \textcolor{keyword}{get} \{ \textcolor{keywordflow}{return} ano; \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00055}00055             \textcolor{keyword}{set} \{ ano = value; \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00056}00056         \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00057}00057 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00058}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a0a51d4f23d233046e049bfa781caa58b}{00058}}         \textcolor{keyword}{public} \textcolor{keywordtype}{string} \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a0a51d4f23d233046e049bfa781caa58b}{Matricula}}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00059}00059         \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00060}00060             \textcolor{keyword}{set} \{ matricula = value; \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00061}00061             \textcolor{keyword}{get} \{ \textcolor{keywordflow}{return} matricula; \}       }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00062}00062         \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00063}00063 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00064}00064 \textcolor{preprocessor}{        \#region OUTROS\_METODOS}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00065}00065 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00070}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_afab92241eb02f012e83ca72361f7d5be}{00070}}         \textcolor{keyword}{public} \textcolor{keyword}{virtual} \textcolor{keywordtype}{double} \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_afab92241eb02f012e83ca72361f7d5be}{Custo}}()}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00071}00071         \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00072}00072             \textcolor{keywordtype}{double} custo;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00073}00073 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00074}00074             \textcolor{keywordflow}{switch} (combustivel)}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00075}00075             \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00076}00076                 \textcolor{keywordflow}{case} 1:  custo = 12000; \textcolor{keywordflow}{break};}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00077}00077                 \textcolor{keywordflow}{case} 2: custo = 13000;\textcolor{keywordflow}{break};}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00078}00078                 \textcolor{keywordflow}{case} 3: custo = 14000;\textcolor{keywordflow}{break};}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00079}00079                 \textcolor{keywordflow}{case} 4: custo = 15000;\textcolor{keywordflow}{break};}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00080}00080                 \textcolor{keywordflow}{default}: custo = 0;\textcolor{keywordflow}{break};}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00081}00081 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00082}00082             \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00083}00083             \textcolor{keywordflow}{return} (custo);}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00084}00084         \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00085}00085 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00086}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a08264940eb991a24fdf9bcf1df7d265d}{00086}}         \textcolor{keyword}{public} \textcolor{keywordtype}{int} \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a08264940eb991a24fdf9bcf1df7d265d}{Compare}}(\mbox{\hyperlink{class_exerc_folha3_1_1_automovel}{Automovel}} a)}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00087}00087         \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00088}00088             \textcolor{keywordflow}{if} (this.\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a597daa2f651e811798bb441cc8d8432d}{Ano}} > a.\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a597daa2f651e811798bb441cc8d8432d}{Ano}}) \textcolor{keywordflow}{return} 1;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00089}00089             \textcolor{keywordflow}{if} (this.ano < a.\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a597daa2f651e811798bb441cc8d8432d}{Ano}}) \textcolor{keywordflow}{return} -\/1;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00090}00090             \textcolor{keywordflow}{return} 0;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00091}00091         \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00092}00092 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00093}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_ac40900b19647034e901f851e845e2276}{00093}}         \textcolor{keyword}{public} \textcolor{keywordtype}{int} \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_ac40900b19647034e901f851e845e2276}{CompareTo}}(\textcolor{keywordtype}{object}? obj)}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00094}00094         \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00095}00095             \mbox{\hyperlink{class_exerc_folha3_1_1_automovel}{Automovel}} aux;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00096}00096             \textcolor{keywordflow}{if} (obj is \mbox{\hyperlink{class_exerc_folha3_1_1_automovel}{Automovel}})}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00097}00097             \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00098}00098                 aux = obj as \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a744f55685a68e8d3c52a180acbdb4b68}{Automovel}};}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00099}00099                 \textcolor{keywordflow}{if} (this.\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_a597daa2f651e811798bb441cc8d8432d}{Ano}} == aux.ano ) \textcolor{keywordflow}{return} 1;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00100}00100                 \textcolor{keywordflow}{else}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00101}00101                     \textcolor{keywordflow}{return} 0;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00102}00102             \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00103}00103             \textcolor{keywordflow}{return} -\/1;}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00104}00104 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00105}00105         \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00106}00106 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00107}\mbox{\hyperlink{class_exerc_folha3_1_1_automovel_ad4f949f19fb92328c065d0b28857b16e}{00107}}         \textcolor{keyword}{public} \textcolor{keywordtype}{bool} \mbox{\hyperlink{class_exerc_folha3_1_1_automovel_ad4f949f19fb92328c065d0b28857b16e}{EstacionaCarro}}()}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00108}00108         \{}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00109}00109             \textcolor{keywordflow}{return} Garagem.EstacionaCarro(\textcolor{keyword}{this});}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00110}00110 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00111}00111         \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00112}00112 \textcolor{preprocessor}{        \#endregion}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00113}00113 }
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00114}00114 \textcolor{preprocessor}{        \#endregion}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00115}00115     \}}
+\DoxyCodeLine{\Hypertarget{_automovel_8cs_source_l00116}00116 \}}
+
+\end{DoxyCode}
