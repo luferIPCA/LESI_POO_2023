@@ -1,0 +1,15 @@
+D:\Temp\POO\Aulas\Aula 11 - Files\bin\Debug\net5.0\Aula 11 - Files.exe
+D:\Temp\POO\Aulas\Aula 11 - Files\bin\Debug\net5.0\Aula 11 - Files.deps.json
+D:\Temp\POO\Aulas\Aula 11 - Files\bin\Debug\net5.0\Aula 11 - Files.runtimeconfig.json
+D:\Temp\POO\Aulas\Aula 11 - Files\bin\Debug\net5.0\Aula 11 - Files.runtimeconfig.dev.json
+D:\Temp\POO\Aulas\Aula 11 - Files\bin\Debug\net5.0\Aula 11 - Files.dll
+D:\Temp\POO\Aulas\Aula 11 - Files\bin\Debug\net5.0\ref\Aula 11 - Files.dll
+D:\Temp\POO\Aulas\Aula 11 - Files\bin\Debug\net5.0\Aula 11 - Files.pdb
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.AssemblyInfoInputs.cache
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.AssemblyInfo.cs
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.dll
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\ref\Aula 11 - Files.dll
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.pdb
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.genruntimeconfig.cache
