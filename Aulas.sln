@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 10 - Exceptions", "Aul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 10 - Exceptions I", "Aulas\Aula 10 - Exceptions I\Aula 10 - Exceptions I.csproj", "{3FC37F32-2D62-4331-82C0-534A9398D509}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 9 - Collections", "Aulas\Aula 9 - Collections\Aula 9 - Collections.csproj", "{624D915B-EA6C-41D3-8E2F-2EA8EDE56185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3FC37F32-2D62-4331-82C0-534A9398D509}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC37F32-2D62-4331-82C0-534A9398D509}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC37F32-2D62-4331-82C0-534A9398D509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624D915B-EA6C-41D3-8E2F-2EA8EDE56185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624D915B-EA6C-41D3-8E2F-2EA8EDE56185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624D915B-EA6C-41D3-8E2F-2EA8EDE56185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624D915B-EA6C-41D3-8E2F-2EA8EDE56185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
