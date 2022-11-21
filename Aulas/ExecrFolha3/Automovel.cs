@@ -92,11 +92,10 @@ namespace ExerFolha3
 
         public int CompareTo(object? obj)
         {
-            Automovel aux;
             if (obj is Automovel || obj is AutomovelLuxo)
             {
-                aux = obj as Automovel;
-                if (this.Ano == aux.ano ) return 0;
+                Automovel aux = obj as Automovel;
+                if (this.Ano == aux.ano) return 0;
                 if (this.Ano > aux.ano) return 1;
                 return -1;
             }
@@ -105,6 +104,10 @@ namespace ExerFolha3
 
         public bool EstacionaCarro()
         {
+            if (this.Custo() >0)
+            {
+                throw new AutomovelInvalidoException("Carro muito caro");
+            }
             return Garagem.EstacionaCarro(this);
 
         }
@@ -115,6 +118,24 @@ namespace ExerFolha3
             return outStr;
         }
         #endregion
+
+        public static bool operator ==(Automovel a1, Automovel a2)
+        {
+            //if (a1.Matricula.CompareTo(a2.Matricula) == 0) return true;
+            //return (false);
+            return (a1.Equals(a2));
+        }
+        public static bool operator !=(Automovel a1, Automovel a2)
+        {
+            return (!(a1 == a2));
+        }
+
+        public override bool Equals(object obj)
+        {
+            Automovel a = obj as Automovel;
+            return (this.Matricula.CompareTo(a.Matricula) == 0);
+        }
+
 
         #endregion
     }

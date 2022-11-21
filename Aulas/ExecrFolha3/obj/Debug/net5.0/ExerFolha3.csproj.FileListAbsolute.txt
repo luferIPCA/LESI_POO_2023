@@ -5,7 +5,6 @@ D:\Temp\POO\Aulas\ExecrFolha3\bin\Debug\net5.0\ExerFolha3.runtimeconfig.dev.json
 D:\Temp\POO\Aulas\ExecrFolha3\bin\Debug\net5.0\ExerFolha3.dll
 D:\Temp\POO\Aulas\ExecrFolha3\bin\Debug\net5.0\ref\ExerFolha3.dll
 D:\Temp\POO\Aulas\ExecrFolha3\bin\Debug\net5.0\ExerFolha3.pdb
-D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ExerFolha3.csprojAssemblyReference.cache
 D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ExerFolha3.GeneratedMSBuildEditorConfig.editorconfig
 D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ExerFolha3.AssemblyInfoInputs.cache
 D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ExerFolha3.AssemblyInfo.cs

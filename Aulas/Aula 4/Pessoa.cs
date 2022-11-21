@@ -13,7 +13,7 @@ namespace Aula_4
         #region ATTRIBUTES
 
         public string nome;
-        int idade;
+        public int idade;
 
         #endregion
 

@@ -1,0 +1,15 @@
+D:\Temp\POO\Aulas\Aula 3\bin\Debug\net5.0\Aula 3 - Arrays.exe
+D:\Temp\POO\Aulas\Aula 3\bin\Debug\net5.0\Aula 3 - Arrays.deps.json
+D:\Temp\POO\Aulas\Aula 3\bin\Debug\net5.0\Aula 3 - Arrays.runtimeconfig.json
+D:\Temp\POO\Aulas\Aula 3\bin\Debug\net5.0\Aula 3 - Arrays.runtimeconfig.dev.json
+D:\Temp\POO\Aulas\Aula 3\bin\Debug\net5.0\Aula 3 - Arrays.dll
+D:\Temp\POO\Aulas\Aula 3\bin\Debug\net5.0\ref\Aula 3 - Arrays.dll
+D:\Temp\POO\Aulas\Aula 3\bin\Debug\net5.0\Aula 3 - Arrays.pdb
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.AssemblyInfoInputs.cache
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.AssemblyInfo.cs
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.dll
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\ref\Aula 3 - Arrays.dll
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.pdb
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.genruntimeconfig.cache

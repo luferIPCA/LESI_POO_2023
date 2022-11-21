@@ -25,6 +25,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercSlides", "Aulas\ExercS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerFolha3", "Aulas\ExecrFolha3\ExerFolha3.csproj", "{D49169FE-1BCE-4B77-8C48-31A3C35172C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 10 - Exceptions", "Aulas\Aula 10 - Exceptions\Aula 10 - Exceptions.csproj", "{39708E34-D7A9-4C95-B2D6-57C28B25F8EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 10 - Exceptions I", "Aulas\Aula 10 - Exceptions I\Aula 10 - Exceptions I.csproj", "{3FC37F32-2D62-4331-82C0-534A9398D509}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{D49169FE-1BCE-4B77-8C48-31A3C35172C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D49169FE-1BCE-4B77-8C48-31A3C35172C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D49169FE-1BCE-4B77-8C48-31A3C35172C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39708E34-D7A9-4C95-B2D6-57C28B25F8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39708E34-D7A9-4C95-B2D6-57C28B25F8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39708E34-D7A9-4C95-B2D6-57C28B25F8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39708E34-D7A9-4C95-B2D6-57C28B25F8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC37F32-2D62-4331-82C0-534A9398D509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC37F32-2D62-4331-82C0-534A9398D509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC37F32-2D62-4331-82C0-534A9398D509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC37F32-2D62-4331-82C0-534A9398D509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

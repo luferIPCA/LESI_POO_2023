@@ -13,7 +13,6 @@ D:\Temp\POO\Aula 1\Aula 2\obj\Debug\net5.0\Aula 2.dll
 D:\Temp\POO\Aula 1\Aula 2\obj\Debug\net5.0\ref\Aula 2.dll
 D:\Temp\POO\Aula 1\Aula 2\obj\Debug\net5.0\Aula 2.pdb
 D:\Temp\POO\Aula 1\Aula 2\obj\Debug\net5.0\Aula 2.genruntimeconfig.cache
-D:\Temp\POO\Aulas\Aula 2\obj\Debug\net5.0\Aula 2.csprojAssemblyReference.cache
 D:\Temp\POO\Aulas\Aula 2\obj\Debug\net5.0\Aula 2.GeneratedMSBuildEditorConfig.editorconfig
 D:\Temp\POO\Aulas\Aula 2\obj\Debug\net5.0\Aula 2.AssemblyInfoInputs.cache
 D:\Temp\POO\Aulas\Aula 2\obj\Debug\net5.0\Aula 2.AssemblyInfo.cs

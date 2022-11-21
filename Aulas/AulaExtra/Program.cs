@@ -21,7 +21,7 @@ namespace AulaExtra
             }
             //b h2
             
-            MostraValores(100, -10, a);
+            MostraValores(100, -10, (int)f);
             
         }
         //SOLID

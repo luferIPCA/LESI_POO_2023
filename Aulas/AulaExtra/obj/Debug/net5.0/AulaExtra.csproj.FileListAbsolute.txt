@@ -1,0 +1,15 @@
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.AssemblyInfoInputs.cache
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.AssemblyInfo.cs
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\AulaExtra\bin\Debug\net5.0\AulaExtra.exe
+D:\Temp\POO\Aulas\AulaExtra\bin\Debug\net5.0\AulaExtra.deps.json
+D:\Temp\POO\Aulas\AulaExtra\bin\Debug\net5.0\AulaExtra.runtimeconfig.json
+D:\Temp\POO\Aulas\AulaExtra\bin\Debug\net5.0\AulaExtra.runtimeconfig.dev.json
+D:\Temp\POO\Aulas\AulaExtra\bin\Debug\net5.0\AulaExtra.dll
+D:\Temp\POO\Aulas\AulaExtra\bin\Debug\net5.0\ref\AulaExtra.dll
+D:\Temp\POO\Aulas\AulaExtra\bin\Debug\net5.0\AulaExtra.pdb
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.dll
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\ref\AulaExtra.dll
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.pdb
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.genruntimeconfig.cache

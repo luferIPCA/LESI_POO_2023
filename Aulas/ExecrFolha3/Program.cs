@@ -17,6 +17,10 @@ namespace ExerFolha3
             AutomovelLuxo a4 = new AutomovelLuxo(true, true, false, 2023, "AA-11-23", 2, COMB.ELE);
             double tot = a3.Custo();
 
+            if (a3.Equals(a4)) { }
+            
+            if (a3 == a4) { }
+
             if (a3.Ano == a4.Ano)
             {
 
@@ -29,14 +33,29 @@ namespace ExerFolha3
 
             //String.Compare("Ok","Ok1")
 
-            Garagem g1 = new Garagem();
-            Garagem g2 = new Garagem();
+            //Garagem g1 = new Garagem();
+            //Garagem g2 = new Garagem();
 
-            a3.EstacionaCarro();
+            try
+            {
+                a3.EstacionaCarro();
+            }
+            catch(AutomovelInvalidoException e)
+            {
+
+            }
+            catch(Exception e)
+            {
+
+            }
             a1.EstacionaCarro();
+
+            Garagem.EstacionaCarro(a1);
 
             Console.WriteLine("\nCarros na Garagem\n");
             ArrayList carr = Garagem.Estacionados();
+
+
             foreach(Automovel a in carr)
             {
                 Console.Write(a.ToString());
@@ -45,8 +64,19 @@ namespace ExerFolha3
             Console.WriteLine("\nCarros na Garagem\n");
             Garagem.ShowAll();
 
+            //ArrayList xxx = Garagem.Carros;
+            //xxx =  Garagem.Estacionados();
+            //xxx.Add(a1);
+            //xxx.Add(a1);
+
+            //Ordenação de Arraylist
+            ArrayList nova = new ArrayList();
+            nova.Add(2);
+            nova.Add(-2);
+            nova.Sort();
+
             Console.WriteLine("\nCarros na Garagem Ordenados\n");
-            carr.Sort();
+            carr.Sort();        //Exige ICompare
             Garagem.ShowAll(carr);
 
         }

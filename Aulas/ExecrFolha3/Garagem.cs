@@ -18,8 +18,9 @@ namespace ExerFolha3
     /// </summary>
     class Garagem
     {
+        const int MAXIMO= 100;
         //static Automovel[] carros;
-
+        static string nome;
         static ArrayList carros;
         static int totCarros;
 
@@ -31,13 +32,13 @@ namespace ExerFolha3
             carros = new ArrayList();
         }
         /// <summary>
-        /// 
+        /// Estacionar carros...regras!!!
         /// </summary>
         /// <param name="a"></param>
         /// <returns></returns>
         public static bool EstacionaCarro(Automovel a)
         {
-            if (!carros.Contains(a))
+            if (!carros.Contains(a) && totCarros<MAXIMO)
             {
                 carros.Add(a);
                 totCarros++;
@@ -45,7 +46,6 @@ namespace ExerFolha3
             }
             return false;
         }
-
         public static ArrayList Estacionados()
         {
             ArrayList aux = new ArrayList();
@@ -58,7 +58,8 @@ namespace ExerFolha3
         /// </summary>
         public static ArrayList Carros
         {
-            get { return ((ArrayList)carros.Clone()); }
+            get { return  ((ArrayList)carros.Clone()); }
+            
         }
 
 
@@ -81,6 +82,7 @@ namespace ExerFolha3
                     Console.WriteLine("Str[]: " + o.ToString()); continue;
                 }
                 */
+                //Console.Write(o.ToString()); continue;
                 if (o.GetType() == typeof(Automovel) || o.GetType() == typeof(AutomovelLuxo))                              //struct or classe
                 {
                     Automovel aux = (Automovel)o;

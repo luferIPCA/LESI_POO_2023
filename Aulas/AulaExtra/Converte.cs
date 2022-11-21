@@ -34,7 +34,7 @@ namespace AulaExtra
         }
     }
 
-    class Veiculo
+    public class Veiculo
     {
         int ano;
     }
