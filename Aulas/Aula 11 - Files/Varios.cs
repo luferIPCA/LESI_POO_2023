@@ -346,11 +346,13 @@ namespace FilesAndFolders
     [Serializable]
     public class Pessoa
     {
+        
         public int idade;   //cuidado!
 
         //atributo "perfil" é calculado!
         [NonSerialized]
-        public int perfil;
+        public int perfil;   //cuidado!
+
 
         public Pessoa(int i)
         {

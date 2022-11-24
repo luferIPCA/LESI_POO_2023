@@ -6,6 +6,30 @@ namespace AulaExtra
     {
         static void Main(string[] args)
         {
+            #region ATENDIMENTO
+
+            //h1
+            Pessoa p1 = new Pessoa();
+            p1.Idade = 20;      //set
+            p1.Nome = "Maria";
+
+            //h2
+            Pessoa p2 = new Pessoa(20, "Maria");
+
+            //h3
+            Pessoa p3 = new Pessoa("Paula", new DateTime(12, 12, 1980));
+            Console.WriteLine("Idade: {0}\n",p3.Idade);
+
+
+            Pessoas pes = new Pessoas(100);
+            pes.InserePessoa(p1);
+            pes.InserePessoa(p2);
+            pes.InserePessoa(p3);
+            Console.WriteLine("Total Pessoas: {0}\n", pes.Quantas);
+            
+            #endregion
+
+
             //a)
             int x;
             Converte a;
