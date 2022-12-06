@@ -13,3 +13,4 @@ D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.dll
 D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\ref\Aula 3 - Arrays.dll
 D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.pdb
 D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.genruntimeconfig.cache
+D:\Temp\POO\Aulas\Aula 3\obj\Debug\net5.0\Aula 3 - Arrays.csproj.AssemblyReference.cache

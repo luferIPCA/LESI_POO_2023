@@ -28,3 +28,4 @@ D:\Temp\POO\Aulas\Aula 5\obj\Debug\net5.0\Aula 5.dll
 D:\Temp\POO\Aulas\Aula 5\obj\Debug\net5.0\ref\Aula 5.dll
 D:\Temp\POO\Aulas\Aula 5\obj\Debug\net5.0\Aula 5.pdb
 D:\Temp\POO\Aulas\Aula 5\obj\Debug\net5.0\Aula 5.genruntimeconfig.cache
+D:\Temp\POO\Aulas\Aula 5\obj\Debug\net5.0\Aula 5.csproj.AssemblyReference.cache

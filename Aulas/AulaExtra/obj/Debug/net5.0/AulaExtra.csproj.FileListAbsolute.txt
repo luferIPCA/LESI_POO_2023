@@ -13,3 +13,4 @@ D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.dll
 D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\ref\AulaExtra.dll
 D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.pdb
 D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.genruntimeconfig.cache
+D:\Temp\POO\Aulas\AulaExtra\obj\Debug\net5.0\AulaExtra.csproj.AssemblyReference.cache

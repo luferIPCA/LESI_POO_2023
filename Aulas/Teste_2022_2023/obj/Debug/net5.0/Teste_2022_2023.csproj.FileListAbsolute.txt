@@ -1,0 +1,16 @@
+D:\Temp\POO\Aulas\Teste_2022_2023\bin\Debug\net5.0\Teste_2022_2023.exe
+D:\Temp\POO\Aulas\Teste_2022_2023\bin\Debug\net5.0\Teste_2022_2023.deps.json
+D:\Temp\POO\Aulas\Teste_2022_2023\bin\Debug\net5.0\Teste_2022_2023.runtimeconfig.json
+D:\Temp\POO\Aulas\Teste_2022_2023\bin\Debug\net5.0\Teste_2022_2023.runtimeconfig.dev.json
+D:\Temp\POO\Aulas\Teste_2022_2023\bin\Debug\net5.0\Teste_2022_2023.dll
+D:\Temp\POO\Aulas\Teste_2022_2023\bin\Debug\net5.0\ref\Teste_2022_2023.dll
+D:\Temp\POO\Aulas\Teste_2022_2023\bin\Debug\net5.0\Teste_2022_2023.pdb
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\Teste_2022_2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\Teste_2022_2023.AssemblyInfoInputs.cache
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\Teste_2022_2023.AssemblyInfo.cs
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\Teste_2022_2023.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\Teste_2022_2023.dll
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\ref\Teste_2022_2023.dll
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\Teste_2022_2023.pdb
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\Teste_2022_2023.genruntimeconfig.cache
+D:\Temp\POO\Aulas\Teste_2022_2023\obj\Debug\net5.0\Teste_2022_2023.csproj.AssemblyReference.cache

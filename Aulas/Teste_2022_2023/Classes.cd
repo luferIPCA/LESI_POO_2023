@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Teste_2022_2023.Empresa">
+    <Position X="5" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQBCAAAACAAAAAAIAAAQAAAAgAAAIA=</HashCode>
+      <FileName>Maquina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teste_2022_2023.LinhaProducao">
+    <Position X="2.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAGAAAAAAAAAAAABAAAAAAAAAAEQAAAAAIAA=</HashCode>
+      <FileName>Maquina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teste_2022_2023.Maquina">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACAAAAAAgAAAAgAAAAQAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Maquina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teste_2022_2023.TipoEmpresa">
+    <Position X="5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Maquina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Teste_2022_2023.Tarefa">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Maquina.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Teste_2022_2023.Estado">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Maquina.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

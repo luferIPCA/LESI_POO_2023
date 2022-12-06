@@ -13,3 +13,4 @@ D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.dll
 D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\ref\Aula 8 - Pilares POO.dll
 D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.pdb
 D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.genruntimeconfig.cache
+D:\Temp\POO\Aulas\Aula 8\obj\Debug\net5.0\Aula 8 - Pilares POO.csproj.AssemblyReference.cache
