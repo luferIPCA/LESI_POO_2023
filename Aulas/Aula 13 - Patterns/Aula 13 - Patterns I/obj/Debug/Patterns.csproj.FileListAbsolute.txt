@@ -1,0 +1,5 @@
+C:\Temp\LP2\Aulas\Outros\Patterns\bin\Debug\Patterns.exe
+C:\Temp\LP2\Aulas\Outros\Patterns\bin\Debug\Patterns.pdb
+C:\Temp\LP2\Aulas\Outros\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Outros\Patterns\obj\Debug\Patterns.exe
+C:\Temp\LP2\Aulas\Outros\Patterns\obj\Debug\Patterns.pdb

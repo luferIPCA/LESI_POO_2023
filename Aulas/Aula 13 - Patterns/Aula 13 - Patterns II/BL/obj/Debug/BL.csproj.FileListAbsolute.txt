@@ -1,0 +1,33 @@
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\Controlo.dll
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\Controlo.pdb
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\BO.dll
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\OutraDados.dll
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\BO.pdb
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\OutraDados.pdb
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\BL.csproj.CopyComplete
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.dll
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.pdb
+C:\Temp\LP2\NTierApp\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Temp\LP2\NTierApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\NTierApp\BL\obj\Debug\Controlo.dll
+C:\Temp\LP2\NTierApp\BL\obj\Debug\Controlo.pdb
+C:\Temp\LP2\NTierApp\BL\bin\Debug\Controlo.dll
+C:\Temp\LP2\NTierApp\BL\bin\Debug\Controlo.pdb
+C:\Temp\LP2\NTierApp\BL\bin\Debug\BO.dll
+C:\Temp\LP2\NTierApp\BL\bin\Debug\OutraDados.dll
+C:\Temp\LP2\NTierApp\BL\bin\Debug\BO.pdb
+C:\Temp\LP2\NTierApp\BL\bin\Debug\OutraDados.pdb
+C:\Temp\LP2\NTierApp\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\bin\Debug\Controlo.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\bin\Debug\Controlo.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\bin\Debug\BO.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\bin\Debug\OutraDados.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\bin\Debug\BO.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\bin\Debug\OutraDados.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\obj\Debug\Controlo.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BL\obj\Debug\Controlo.pdb

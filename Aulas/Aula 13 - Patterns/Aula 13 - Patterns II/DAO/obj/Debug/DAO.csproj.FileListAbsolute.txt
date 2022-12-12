@@ -1,0 +1,18 @@
+C:\Temp\LP2\NTierApp\OutraDados\bin\Debug\OutraDados.dll
+C:\Temp\LP2\NTierApp\OutraDados\bin\Debug\OutraDados.pdb
+C:\Temp\LP2\NTierApp\OutraDados\bin\Debug\BO.dll
+C:\Temp\LP2\NTierApp\OutraDados\bin\Debug\BO.pdb
+C:\Temp\LP2\NTierApp\OutraDados\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Temp\LP2\NTierApp\OutraDados\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\NTierApp\OutraDados\obj\Debug\DAO.csproj.CopyComplete
+C:\Temp\LP2\NTierApp\OutraDados\obj\Debug\OutraDados.dll
+C:\Temp\LP2\NTierApp\OutraDados\obj\Debug\OutraDados.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\bin\Debug\OutraDados.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\bin\Debug\OutraDados.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\bin\Debug\BO.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\bin\Debug\BO.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.pdb

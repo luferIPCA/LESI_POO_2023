@@ -1,0 +1,8 @@
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\Controlo.dll
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\Controlo.pdb
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\OutraDados.dll
+C:\Temp\LP2\NTierApp\Controlo\bin\Debug\OutraDados.pdb
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.csproj.CopyComplete
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.dll
+C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.pdb

@@ -1,0 +1,11 @@
+C:\Temp\LP2\NTierApp\BO\bin\Debug\BO.dll
+C:\Temp\LP2\NTierApp\BO\bin\Debug\BO.pdb
+C:\Temp\LP2\NTierApp\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\NTierApp\BO\obj\Debug\BO.dll
+C:\Temp\LP2\NTierApp\BO\obj\Debug\BO.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\bin\Debug\BO.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\bin\Debug\BO.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\obj\Debug\BO.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\obj\Debug\BO.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\obj\Debug\BO.pdb

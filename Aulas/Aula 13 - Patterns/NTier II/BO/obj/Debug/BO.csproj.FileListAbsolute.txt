@@ -1,0 +1,5 @@
+D:\Temp\POO\BO\bin\Debug\BO.dll
+D:\Temp\POO\BO\bin\Debug\BO.pdb
+D:\Temp\POO\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+D:\Temp\POO\BO\obj\Debug\BO.dll
+D:\Temp\POO\BO\obj\Debug\BO.pdb

@@ -1,0 +1,14 @@
+D:\Temp\POO\UsaTudo\bin\Debug\UsaTudo.exe.config
+D:\Temp\POO\UsaTudo\bin\Debug\UsaTudo.exe
+D:\Temp\POO\UsaTudo\bin\Debug\UsaTudo.pdb
+D:\Temp\POO\UsaTudo\bin\Debug\BL.dll
+D:\Temp\POO\UsaTudo\bin\Debug\DL.dll
+D:\Temp\POO\UsaTudo\bin\Debug\BL.pdb
+D:\Temp\POO\UsaTudo\bin\Debug\DL.pdb
+D:\Temp\POO\UsaTudo\obj\Debug\UsaTudo.csproj.AssemblyReference.cache
+D:\Temp\POO\UsaTudo\obj\Debug\UsaTudo.csproj.CoreCompileInputs.cache
+D:\Temp\POO\UsaTudo\obj\Debug\UsaTudo.csproj.CopyComplete
+D:\Temp\POO\UsaTudo\obj\Debug\UsaTudo.exe
+D:\Temp\POO\UsaTudo\obj\Debug\UsaTudo.pdb
+D:\Temp\POO\UsaTudo\bin\Debug\BO.dll
+D:\Temp\POO\UsaTudo\bin\Debug\BO.pdb

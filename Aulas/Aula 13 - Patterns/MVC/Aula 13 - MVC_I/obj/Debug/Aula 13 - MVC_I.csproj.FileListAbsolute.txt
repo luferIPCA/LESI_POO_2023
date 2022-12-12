@@ -1,0 +1,7 @@
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe.config
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_I\bin\Debug\2020-05-15 - Aula 18 - MVC_I.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_I\obj\Debug\Aula 13 - MVC_I.csproj.AssemblyReference.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_I\obj\Debug\Aula 13 - MVC_I.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.exe
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_I\obj\Debug\2020-05-15 - Aula 18 - MVC_I.pdb

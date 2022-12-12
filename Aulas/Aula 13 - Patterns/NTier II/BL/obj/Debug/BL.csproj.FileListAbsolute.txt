@@ -1,0 +1,11 @@
+D:\Temp\POO\BL\bin\Debug\BL.dll
+D:\Temp\POO\BL\bin\Debug\BL.pdb
+D:\Temp\POO\BL\bin\Debug\DL.dll
+D:\Temp\POO\BL\bin\Debug\DL.pdb
+D:\Temp\POO\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\Temp\POO\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Temp\POO\BL\obj\Debug\BL.csproj.CopyComplete
+D:\Temp\POO\BL\obj\Debug\BL.dll
+D:\Temp\POO\BL\obj\Debug\BL.pdb
+D:\Temp\POO\BL\bin\Debug\BO.dll
+D:\Temp\POO\BL\bin\Debug\BO.pdb

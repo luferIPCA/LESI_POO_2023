@@ -1,0 +1,9 @@
+D:\Temp\POO\DL\bin\Debug\DL.dll
+D:\Temp\POO\DL\bin\Debug\DL.pdb
+D:\Temp\POO\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\Temp\POO\DL\obj\Debug\DL.dll
+D:\Temp\POO\DL\obj\Debug\DL.pdb
+D:\Temp\POO\DL\bin\Debug\BO.dll
+D:\Temp\POO\DL\bin\Debug\BO.pdb
+D:\Temp\POO\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+D:\Temp\POO\DL\obj\Debug\DL.csproj.CopyComplete

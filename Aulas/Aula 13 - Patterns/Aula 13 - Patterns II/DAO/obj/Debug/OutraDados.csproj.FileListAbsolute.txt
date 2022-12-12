@@ -1,0 +1,9 @@
+C:\Temp\LP2\NTierApp\OutraDados\obj\Debug\OutraDados.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\NTierApp\OutraDados\bin\Debug\OutraDados.dll
+C:\Temp\LP2\NTierApp\OutraDados\bin\Debug\OutraDados.pdb
+C:\Temp\LP2\NTierApp\OutraDados\obj\Debug\OutraDados.dll
+C:\Temp\LP2\NTierApp\OutraDados\obj\Debug\OutraDados.pdb
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.csprojAssemblyReference.cache
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.dll
+C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.pdb

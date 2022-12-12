@@ -1,0 +1,6 @@
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_II\bin\Debug\2020-05-15 - Aula 18 - MVC_II.exe.config
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_II\bin\Debug\2020-05-15 - Aula 18 - MVC_II.exe
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_II\bin\Debug\2020-05-15 - Aula 18 - MVC_II.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_II\obj\Debug\Aula 13 - MVC_II.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_II\obj\Debug\2020-05-15 - Aula 18 - MVC_II.exe
+D:\Temp\POO\Aulas\Aula 13 - Patterns\MVC\Aula 13 - MVC_II\obj\Debug\2020-05-15 - Aula 18 - MVC_II.pdb
