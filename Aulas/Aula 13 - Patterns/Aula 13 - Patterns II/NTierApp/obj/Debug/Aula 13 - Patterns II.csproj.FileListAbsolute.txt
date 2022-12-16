@@ -15,3 +15,20 @@ C:\Temp\LP2\Aulas\Aula 13 - Patterns II\NTierApp\obj\Debug\Aula 13 - Patterns II
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\NTierApp\obj\Debug\Aula 13 - Patterns II.csproj.CopyComplete
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\NTierApp\obj\Debug\NTierApp.exe
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\NTierApp\obj\Debug\NTierApp.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\NTierApp.exe.config
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\NTierApp.exe
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\NTierApp.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\BO.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\Controlo.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\OutraDados.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\BO.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\Controlo.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\bin\Debug\OutraDados.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\obj\Debug\Aula 13 - Patterns II.csproj.AssemblyReference.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\obj\Debug\NTierApp.Form1.resources
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\obj\Debug\NTierApp.Properties.Resources.resources
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\obj\Debug\Aula 13 - Patterns II.csproj.GenerateResource.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\obj\Debug\Aula 13 - Patterns II.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\obj\Debug\Aula 13 - Patterns II.csproj.CopyComplete
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\obj\Debug\NTierApp.exe
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\NTierApp\obj\Debug\NTierApp.pdb

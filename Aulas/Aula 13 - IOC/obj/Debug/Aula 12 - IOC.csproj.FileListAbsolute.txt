@@ -1,0 +1,14 @@
+D:\Temp\LP2-EIM\Aulas\Aula 12 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe.config
+D:\Temp\LP2-EIM\Aulas\Aula 12 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe
+D:\Temp\LP2-EIM\Aulas\Aula 12 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.pdb
+D:\Temp\LP2-EIM\Aulas\Aula 12 - IOC\obj\Debug\Aula 12 - IOC.csprojAssemblyReference.cache
+D:\Temp\LP2-EIM\Aulas\Aula 12 - IOC\obj\Debug\Aula 12 - IOC.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-EIM\Aulas\Aula 12 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.exe
+D:\Temp\LP2-EIM\Aulas\Aula 12 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.pdb
+D:\Temp\LP2-ESI\Aulas\Aula 12 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe.config
+D:\Temp\LP2-ESI\Aulas\Aula 12 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe
+D:\Temp\LP2-ESI\Aulas\Aula 12 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.pdb
+D:\Temp\LP2-ESI\Aulas\Aula 12 - IOC\obj\Debug\Aula 12 - IOC.csprojAssemblyReference.cache
+D:\Temp\LP2-ESI\Aulas\Aula 12 - IOC\obj\Debug\Aula 12 - IOC.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-ESI\Aulas\Aula 12 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.exe
+D:\Temp\LP2-ESI\Aulas\Aula 12 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.pdb

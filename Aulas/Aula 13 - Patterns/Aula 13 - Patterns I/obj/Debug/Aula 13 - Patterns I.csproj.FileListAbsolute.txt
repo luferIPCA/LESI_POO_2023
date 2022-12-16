@@ -1,0 +1,6 @@
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns I\bin\Debug\Patterns.exe
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns I\bin\Debug\Patterns.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns I\obj\Debug\Aula 13 - Patterns I.csproj.AssemblyReference.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns I\obj\Debug\Aula 13 - Patterns I.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns I\obj\Debug\Patterns.exe
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns I\obj\Debug\Patterns.pdb

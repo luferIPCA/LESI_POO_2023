@@ -13,3 +13,4 @@ D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.dll
 D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\ref\Aula 11 - Files.dll
 D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.pdb
 D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.genruntimeconfig.cache
+D:\Temp\POO\Aulas\Aula 11 - Files\obj\Debug\net5.0\Aula 11 - Files.csproj.AssemblyReference.cache

@@ -16,3 +16,12 @@ C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\DAO.csproj.CoreCompileInpu
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\DAO.csproj.CopyComplete
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.dll
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\bin\Debug\OutraDados.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\bin\Debug\OutraDados.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\bin\Debug\BO.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\bin\Debug\BO.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\DAO\obj\Debug\OutraDados.pdb

@@ -13,3 +13,4 @@ D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ExerFolha3.dll
 D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ref\ExerFolha3.dll
 D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ExerFolha3.pdb
 D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ExerFolha3.genruntimeconfig.cache
+D:\Temp\POO\Aulas\ExecrFolha3\obj\Debug\net5.0\ExerFolha3.csproj.AssemblyReference.cache

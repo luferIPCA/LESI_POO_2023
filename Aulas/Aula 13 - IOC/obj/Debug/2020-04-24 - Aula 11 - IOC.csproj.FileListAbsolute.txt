@@ -1,0 +1,14 @@
+D:\Temp\Aulas\2020-04-24 - Aula 11 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe.config
+D:\Temp\Aulas\2020-04-24 - Aula 11 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe
+D:\Temp\Aulas\2020-04-24 - Aula 11 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.pdb
+D:\Temp\Aulas\2020-04-24 - Aula 11 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.csprojAssemblyReference.cache
+D:\Temp\Aulas\2020-04-24 - Aula 11 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\2020-04-24 - Aula 11 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.exe
+D:\Temp\Aulas\2020-04-24 - Aula 11 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.pdb
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-04-24 - Aula 11 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe.config
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-04-24 - Aula 11 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-04-24 - Aula 11 - IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.pdb
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-04-24 - Aula 11 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.csprojAssemblyReference.cache
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-04-24 - Aula 11 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-04-24 - Aula 11 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.exe
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-04-24 - Aula 11 - IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.pdb

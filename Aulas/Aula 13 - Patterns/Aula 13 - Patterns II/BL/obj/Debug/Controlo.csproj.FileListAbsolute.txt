@@ -6,3 +6,7 @@ C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.csproj.CoreCompileInputs.cache
 C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.csproj.CopyComplete
 C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.dll
 C:\Temp\LP2\NTierApp\Controlo\obj\Debug\Controlo.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BL\obj\Debug\Controlo.csproj.AssemblyReference.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BL\obj\Debug\Controlo.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BL\obj\Debug\Controlo.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BL\obj\Debug\Controlo.pdb

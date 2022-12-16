@@ -29,3 +29,4 @@ D:\Temp\POO\Aulas\ExercSlides\obj\Debug\net5.0\ExercSlides.dll
 D:\Temp\POO\Aulas\ExercSlides\obj\Debug\net5.0\ref\ExercSlides.dll
 D:\Temp\POO\Aulas\ExercSlides\obj\Debug\net5.0\ExercSlides.pdb
 D:\Temp\POO\Aulas\ExercSlides\obj\Debug\net5.0\ExercSlides.genruntimeconfig.cache
+D:\Temp\POO\Aulas\ExercSlides\obj\Debug\net5.0\ExercSlides.csproj.AssemblyReference.cache

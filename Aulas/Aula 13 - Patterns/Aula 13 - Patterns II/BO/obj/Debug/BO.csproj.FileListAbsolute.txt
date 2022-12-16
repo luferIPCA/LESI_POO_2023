@@ -9,3 +9,9 @@ C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\obj\Debug\BO.csprojAssemblyReference.
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\obj\Debug\BO.dll
 C:\Temp\LP2\Aulas\Aula 13 - Patterns II\BO\obj\Debug\BO.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BO\bin\Debug\BO.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BO\bin\Debug\BO.pdb
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BO\obj\Debug\BO.csproj.AssemblyReference.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BO\obj\Debug\BO.dll
+D:\Temp\POO\Aulas\Aula 13 - Patterns\Aula 13 - Patterns II\BO\obj\Debug\BO.pdb

@@ -1,0 +1,6 @@
+C:\Temp\LP2\Aulas\Aula17-IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe.config
+C:\Temp\LP2\Aulas\Aula17-IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.exe
+C:\Temp\LP2\Aulas\Aula17-IOC\bin\Debug\2020-04-24 - Aula 11 - IOC.pdb
+C:\Temp\LP2\Aulas\Aula17-IOC\obj\Debug\Aula17-IOC.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula17-IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.exe
+C:\Temp\LP2\Aulas\Aula17-IOC\obj\Debug\2020-04-24 - Aula 11 - IOC.pdb

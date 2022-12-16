@@ -1,0 +1,18 @@
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\obj\Debug\Aula 12 - SRP.csprojAssemblyReference.cache
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\obj\Debug\Aula 12 - SRP.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\Aula 12 - SRP.exe.config
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\Aula 12 - SRP.exe
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\Aula 12 - SRP.pdb
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\obj\Debug\Aula 12 - SRP.exe
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\obj\Debug\Aula 12 - SRP.pdb
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\BouncyCastle.Crypto.dll
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\MailKit.dll
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\MimeKit.dll
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\System.Buffers.dll
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\BouncyCastle.Crypto.xml
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\MailKit.pdb
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\MailKit.xml
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\MimeKit.pdb
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\MimeKit.xml
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\bin\Debug\System.Buffers.xml
+D:\Temp\LP2-EIM\Aulas\Aula 12 - SRP\obj\Debug\Aula 12 - SRP.csproj.CopyComplete

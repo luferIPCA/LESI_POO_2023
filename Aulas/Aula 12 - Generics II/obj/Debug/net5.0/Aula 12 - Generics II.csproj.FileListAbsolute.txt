@@ -13,3 +13,4 @@ D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.d
 D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\ref\Aula 12 - Generics II.dll
 D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.pdb
 D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.genruntimeconfig.cache
+D:\Temp\POO\Aulas\Aula 12 - Generics II\obj\Debug\net5.0\Aula 12 - Generics II.csproj.AssemblyReference.cache

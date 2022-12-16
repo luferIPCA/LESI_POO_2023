@@ -1,0 +1,6 @@
+C:\Temp\LP2\Aulas\Aula17-SRP\bin\Debug\Aula17-SRP.exe.config
+C:\Temp\LP2\Aulas\Aula17-SRP\bin\Debug\Aula17-SRP.exe
+C:\Temp\LP2\Aulas\Aula17-SRP\bin\Debug\Aula17-SRP.pdb
+C:\Temp\LP2\Aulas\Aula17-SRP\obj\Debug\Aula17-SRP.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula17-SRP\obj\Debug\Aula17-SRP.exe
+C:\Temp\LP2\Aulas\Aula17-SRP\obj\Debug\Aula17-SRP.pdb
